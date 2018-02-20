@@ -1,0 +1,5 @@
+﻿  AidApp.cpp
+e:\seneca\2nd semester\oop\milestone\ms6\aidapp.cpp(240): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  MS6.vcxproj -> E:\Seneca\2nd Semester\oop\milestone\MS6\Debug\MS6.exe
+  MS6.vcxproj -> E:\Seneca\2nd Semester\oop\milestone\MS6\Debug\MS6.pdb (Full PDB)
